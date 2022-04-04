@@ -73,6 +73,7 @@ body {
     justify-self: center;
 }
 
-.image-container {
+.image-container a img {
     margin-top:20px;
+    width: 250px;
 }
